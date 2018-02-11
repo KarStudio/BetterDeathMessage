@@ -1,0 +1,4 @@
+name: BetterDeathMessage
+main: top.karpvp.function.betterdeathmessage.Main
+version: 0.0.1-alpha
+author: listenstation
